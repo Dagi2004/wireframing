@@ -62,7 +62,7 @@ They focus primarily on the layout, content structure, and functionality of the 
 
 - While they still focus on layout and structure, high-fidelity wireframes give a clearer picture of how the finished product will look.
 
-**  When to Use High-Fidelity Wireframes:**
+**When to Use High-Fidelity Wireframes:**
 
 - **Final Design Prototyping:** To create a near-final prototype for testing or presentation purposes.
   
@@ -121,13 +121,13 @@ Figma's accessibility, real-time collaboration, and robust design features make 
 
 - Wireframing is often a collaborative process, and Figma’s real-time collaboration feature is a game-changer. 
 
-**3. Streamlined Design Handoff**
+**3.Streamlined Design Handoff**
 
 Once a wireframe progresses to a more refined design, Figma makes it easy to hand off the design to developers. 
 
-4. Customizable and Scalable
+**4)Customizable and Scalable**
    
--  Figma’s flexible tools allow you to design wireframes that scale with the complexity of the project.
+- Figma’s flexible tools allow you to design wireframes that scale with the complexity of the project.
   
 
 **Benefits of Wireframing in Software Development**
@@ -138,15 +138,15 @@ Once a wireframe progresses to a more refined design, Figma makes it easy to han
 
 - This helps clarify requirements early in the process, ensuring that the development team understands exactly what is needed and reducing the risk of misunderstandings later on.
 
-**2)  Improves User Experience (UX) Design**
+**2)Improves User Experience (UX) Design**
 
 - By focusing on how users will interact with the software, wireframing allows designers to test and refine the user interface (UI) before moving to more complex stages of development.
 
-**3) Reduces Development Time and Costs**
+**3)Reduces Development Time and Costs**
 
 - Saves time and money by allowing changes to be made at a low-cost stage (before actual coding) and streamlines the development process.
   
-**4) Facilitates Better Communication**
+**4)Facilitates Better Communication**
 
 - Enhances collaboration and communication, ensuring all stakeholders are aligned on the project’s goals and design.
 
