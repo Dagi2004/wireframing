@@ -166,7 +166,7 @@ During the wireframing stage, several usability issues were identified that coul
 **Overcomplicated Checkout Process**: The wireframe for the checkout process showed a multi-step procedure with unnecessary form fields and a confusing flow
 
 
-**Resolution of Usability **
+**Resolution of Usability**
 
 **Simplified Navigation Structure**: The navigation was streamlined to reduce the number of categories and make key product groups more accessible.
 
